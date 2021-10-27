@@ -1,2 +1,0 @@
-C:\Users\Celina\source\repos\PracticaFinalPOO\Entidades\obj\Debug\Libreria.csproj.AssemblyReference.cache
-C:\Users\Celina\source\repos\PracticaFinalPOO\Entidades\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
