@@ -1,0 +1,7 @@
+C:\Users\Celina\source\repos\PracticaFinalPOO\Data\bin\Debug\Data.dll.config
+C:\Users\Celina\source\repos\PracticaFinalPOO\Data\bin\Debug\Data.dll
+C:\Users\Celina\source\repos\PracticaFinalPOO\Data\bin\Debug\Data.pdb
+C:\Users\Celina\source\repos\PracticaFinalPOO\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Celina\source\repos\PracticaFinalPOO\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Celina\source\repos\PracticaFinalPOO\Data\obj\Debug\Data.dll
+C:\Users\Celina\source\repos\PracticaFinalPOO\Data\obj\Debug\Data.pdb
